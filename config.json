@@ -1,8 +1,8 @@
 {
   "expiresUtc": "2026-12-31T23:59:59Z",
   "minVersion": null,
-  "latestVersion": "1.0.3",
-  "downloadUrl": "https://github.com/tpgns00-lab/axc-revitaddin-config/releases/download/v1.0.3/AXC_RevitAddin.dll",
-  "message": "1.0.3 변경: 사용 승인 명단 도입, 오프라인 우회 차단",
+  "latestVersion": "1.0.4",
+  "downloadUrl": "https://github.com/tpgns00-lab/axc-revitaddin-config/releases/download/v1.0.4/AXC_RevitAddin.dll",
+  "message": "1.0.4 변경: 창에 버전 표기, 난독화 적용",
   "allowedUsers": []
 }
