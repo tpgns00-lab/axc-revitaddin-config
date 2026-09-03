@@ -1,8 +1,8 @@
 {
   "expiresUtc": "2026-12-31T23:59:59Z",
   "minVersion": null,
-  "latestVersion": "1.0.2",
-  "downloadUrl": "https://github.com/tpgns00-lab/axc-revitaddin-config/releases/download/v1.0.2/AXC_RevitAddin.dll",
-  "message": "1.0.2 변경: 설치 프로그램을 사용자별 설치로 전환(관리자 권한 불필요), 매니페스트 UTF-8 기록",
-  "allowedUsers": ["DEADBEEFDEADBEEF"]
+  "latestVersion": "1.0.3",
+  "downloadUrl": "https://github.com/tpgns00-lab/axc-revitaddin-config/releases/download/v1.0.3/AXC_RevitAddin.dll",
+  "message": "1.0.3 변경: 사용 승인 명단 도입, 오프라인 우회 차단",
+  "allowedUsers": []
 }
