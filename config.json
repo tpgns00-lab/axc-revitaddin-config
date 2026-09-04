@@ -1,13 +1,14 @@
 {
-    "expiresUtc":  "2026-12-31T23:59:59Z",
-    "minVersion":  null,
-    "latestVersion":  "1.0.5",
-    "downloadUrl":  "https://github.com/tpgns00-lab/axc-revitaddin-config/releases/download/v1.0.5/AXC_RevitAddin.dll",
-    "message":  "1.0.5 변경: 차단 화면에 식별 코드 복사 버튼 추가",
-    "allowedUsers":  [
-                         "19C3E4FD901CA571",
-                         "DFA906910EEAC59E",
-                            "61E7B6CE3BCA72C0",
-        "02BE83AF87B06515","BD1F9C1C63E897BB"
-                     ]
+  "expiresUtc": "2026-12-31T23:59:59Z",
+  "minVersion": null,
+  "latestVersion": "1.1.0",
+  "downloadUrl": "https://github.com/tpgns00-lab/axc-revitaddin-config/releases/download/v1.1.0/AXC_RevitAddin.dll",
+  "message": "1.1.0 변경: 층 표기를 베이스레벨~베이스레벨로 수정, 설정 저장/불러오기(축척별) 추가, 선택한 기둥만 수집 추가, 기둥 태그를 '유형 분류 기준' 문자로 교체(위치 입력값이 글자 중앙 기준으로 바뀌었습니다).",
+  "allowedUsers": [
+    "19C3E4FD901CA571",
+    "DFA906910EEAC59E",
+    "61E7B6CE3BCA72C0",
+    "02BE83AF87B06515",
+    "BD1F9C1C63E897BB"
+  ]
 }
