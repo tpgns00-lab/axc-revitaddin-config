@@ -1,9 +1,9 @@
 {
   "expiresUtc": "2026-12-31T23:59:59Z",
   "minVersion": null,
-  "latestVersion": "1.1.0",
-  "downloadUrl": "https://github.com/tpgns00-lab/axc-revitaddin-config/releases/download/v1.1.0/AXC_RevitAddin.dll",
-  "message": "1.1.0 변경: 층 표기를 베이스레벨~베이스레벨로 수정, 설정 저장/불러오기(축척별) 추가, 선택한 기둥만 수집 추가, 기둥 태그를 '유형 분류 기준' 문자로 교체(위치 입력값이 글자 중앙 기준으로 바뀌었습니다).",
+  "latestVersion": "1.2.0",
+  "downloadUrl": "https://github.com/tpgns00-lab/axc-revitaddin-config/releases/download/v1.2.0/AXC_RevitAddin.dll",
+  "message": "1.2.0 변경: 리본에 '천장 달대 배치'와 '단열재선 생성' 두 기능이 추가됐습니다. 주심도에는 기둥 중심과 그리드 사이의 '이격치수'가 생겼고, 벽과 결합돼 모서리가 잘린 기둥이 잘린 모양 그대로 확대되던 문제를 고쳤습니다(같은 원인으로 수집에서 빠지던 기둥도 이제 잡힙니다). 뷰에서 숨긴 그리드·기둥은 작성에서 제외되며, 창은 처음엔 Revit 창 가운데, 다시 열면 마지막 자리에 뜹니다. 화면 정리로 '크기 반올림'은 1mm 고정이 되고 'SRC 내부 형상 포함' 옵션은 없어졌습니다.",
   "allowedUsers": [
     "19C3E4FD901CA571",
     "DFA906910EEAC59E",
