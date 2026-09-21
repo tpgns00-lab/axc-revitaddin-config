@@ -1,9 +1,9 @@
 {
     "expiresUtc":  "2026-12-31T23:59:59Z",
     "minVersion":  null,
-    "latestVersion":  "1.5.0",
-    "downloadUrl":  "https://github.com/tpgns00-lab/axc-revitaddin-config/releases/download/v1.5.0/AXC_RevitAddin.dll",
-    "message":  "1.5.0 변경: [뷰 도구] 패널에 주석 정렬이 추가되어 버튼이 5개가 됐습니다 — 선택한 주석(룸·재료·벽·문 태그 등)을 좌·가로가운데·우 / 상·세로가운데·하로 정렬하고, 상자 사이 최소 간격(모델 mm)을 확보하고, 지시선을 수평·수직 직선으로 맞춥니다. 실행 한 번이 트랜잭션 하나라 Ctrl+Z 로 그 실행만 되돌립니다. 레벨 선 정리: Extend·On/Off 가 조용히 아무 일도 하지 않던 문제와 평면 뷰에서 그리드가 건너뛰어지던 문제를 고쳤고 그리드 4방향을 지원합니다. Room SL·FL: 입력칸 한글 입력이 깨지던 문제를 고치고 용어를 [입력]으로 통일했습니다. 주심도: SRC 내부 형상을 작성 대상 목록으로 분리했고 설정 창 입력칸 잘림을 고쳤습니다. 천장 달대: 입력칸 모서리·텍스트 잘림을 고쳤습니다.",
+    "latestVersion":  "1.5.1",
+    "downloadUrl":  "https://github.com/tpgns00-lab/axc-revitaddin-config/releases/download/v1.5.1/AXC_RevitAddin.dll",
+    "message":  "1.5.1 변경: 주석 정렬 — 정렬 6방향 버튼을 그림으로 바꾸고, 최소 간격 옆에 [중첩 허용] 체크를 추가했습니다(켜면 정렬축으로만 움직여 간격을 벌리지 않고도 정렬·지시선 맞춤을 쓸 수 있습니다). 지시선 방향은 버튼이 아니라 태그가 실제로 향한 쪽으로 판정하고, 박스를 옮길 수 없는 축에서는 지시선 끝점을 박스 테두리로 당겨 선을 곧게 만듭니다. 천장 달대 — 그룹에 묶인 천장·구조부재를 골라도 인식하고, 달대가 없는 구간에 Mbar 선만 남던 문제를 고쳤습니다.",
     "allowedUsers":  [
                          "19C3E4FD901CA571",
                          "DFA906910EEAC59E",
