@@ -1,9 +1,9 @@
 {
     "expiresUtc":  "2026-12-31T23:59:59Z",
     "minVersion":  null,
-    "latestVersion":  "1.5.1",
-    "downloadUrl":  "https://github.com/tpgns00-lab/axc-revitaddin-config/releases/download/v1.5.1/AXC_RevitAddin.dll",
-    "message":  "1.5.1 변경: 주석 정렬 — 정렬 6방향 버튼을 그림으로 바꾸고, 최소 간격 옆에 [중첩 허용] 체크를 추가했습니다(켜면 정렬축으로만 움직여 간격을 벌리지 않고도 정렬·지시선 맞춤을 쓸 수 있습니다). 지시선 방향은 버튼이 아니라 태그가 실제로 향한 쪽으로 판정하고, 박스를 옮길 수 없는 축에서는 지시선 끝점을 박스 테두리로 당겨 선을 곧게 만듭니다. 천장 달대 — 그룹에 묶인 천장·구조부재를 골라도 인식하고, 달대가 없는 구간에 Mbar 선만 남던 문제를 고쳤습니다.",
+    "latestVersion":  "1.6.0",
+    "downloadUrl":  "https://github.com/tpgns00-lab/axc-revitaddin-config/releases/download/v1.6.0/AXC_RevitAddin.dll",
+    "message":  "Lv|Gr|Re Set 기능 확장 및 주석 정렬 보정.",
     "allowedUsers":  [
                          "19C3E4FD901CA571",
                          "DFA906910EEAC59E",
