@@ -1,9 +1,9 @@
 {
     "expiresUtc":  "2026-12-31T23:59:59Z",
     "minVersion":  null,
-    "latestVersion":  "1.6.0",
-    "downloadUrl":  "https://github.com/tpgns00-lab/axc-revitaddin-config/releases/download/v1.6.0/AXC_RevitAddin.dll",
-    "message":  "Lv|Gr|Re Set 기능 확장 및 주석 정렬 보정.",
+    "latestVersion":  "1.7.0",
+    "downloadUrl":  "https://github.com/tpgns00-lab/axc-revitaddin-config/releases/download/v1.7.0/AXC_RevitAddin.dll",
+    "message":  "주석 정렬: 재료 태그(단계선 태그) 정렬 추가.",
     "allowedUsers":  [
                          "19C3E4FD901CA571",
                          "DFA906910EEAC59E",
